@@ -1,5 +1,5 @@
 # PropAlert
-A centered alert system.
+A centralized alert popup messaging system.
 
 # PropAlert 3
 Under development.
