@@ -7,5 +7,5 @@ Under development.
 # PropAlert 2
 Uses jScript.
 
-# PRopAlert 1
+# PropAlert 1
 Not recommended anymore.
