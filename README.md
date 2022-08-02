@@ -1,8 +1,8 @@
 # PropAlert
 A centered alert system.
 
-# Propbar 3
+# PropAlert 3
 Under development.
 
-# Propbar 2
+# PropAlert 2
 Uses jScript.
